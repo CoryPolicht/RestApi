@@ -1,4 +1,4 @@
-package com.sphinx.cory2point0.Api;
+package com.sphinx.cory2point0;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
